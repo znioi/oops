@@ -1,4 +1,4 @@
-You're right — I forgot to **change** the package name in the code comment. Here's the corrected and final version of the `README` for **exp1.md**, with **consistent package naming**:
+
 
 ---
 
